@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "149663275710",
+    "firebase_url": "https://noteplusplus-3463b.firebaseio.com",
+    "project_id": "noteplusplus-3463b",
+    "storage_bucket": "noteplusplus-3463b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149663275710:android:5c238c18c277b2ba86dcef",
+        "android_client_info": {
+          "package_name": "consulting.blackline.NotePlusPlus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149663275710-oc8l07uh2bs67esiqau6ur224ee81tun.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "consulting.blackline.NotePlusPlus",
+            "certificate_hash": "78a0a9dd66b5e4b670d7642c5aedb0f243c20f4b"
+          }
+        },
+        {
+          "client_id": "149663275710-9va07su8q0mf7362oup1racjc2o58frc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb7E3EWYnNxvrIaxP3wttpsJXj83_f2PA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149663275710-9va07su8q0mf7362oup1racjc2o58frc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
